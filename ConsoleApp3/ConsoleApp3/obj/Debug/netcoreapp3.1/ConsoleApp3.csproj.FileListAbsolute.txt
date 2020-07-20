@@ -1,0 +1,12 @@
+/Users/PhuongLe/RiderProjects/ConsoleApp3/ConsoleApp3/bin/Debug/netcoreapp3.1/ConsoleApp3.deps.json
+/Users/PhuongLe/RiderProjects/ConsoleApp3/ConsoleApp3/bin/Debug/netcoreapp3.1/ConsoleApp3.runtimeconfig.json
+/Users/PhuongLe/RiderProjects/ConsoleApp3/ConsoleApp3/bin/Debug/netcoreapp3.1/ConsoleApp3.runtimeconfig.dev.json
+/Users/PhuongLe/RiderProjects/ConsoleApp3/ConsoleApp3/bin/Debug/netcoreapp3.1/ConsoleApp3.dll
+/Users/PhuongLe/RiderProjects/ConsoleApp3/ConsoleApp3/bin/Debug/netcoreapp3.1/ConsoleApp3.pdb
+/Users/PhuongLe/RiderProjects/ConsoleApp3/ConsoleApp3/obj/Debug/netcoreapp3.1/ConsoleApp3.csprojAssemblyReference.cache
+/Users/PhuongLe/RiderProjects/ConsoleApp3/ConsoleApp3/obj/Debug/netcoreapp3.1/ConsoleApp3.AssemblyInfoInputs.cache
+/Users/PhuongLe/RiderProjects/ConsoleApp3/ConsoleApp3/obj/Debug/netcoreapp3.1/ConsoleApp3.AssemblyInfo.cs
+/Users/PhuongLe/RiderProjects/ConsoleApp3/ConsoleApp3/obj/Debug/netcoreapp3.1/ConsoleApp3.csproj.CoreCompileInputs.cache
+/Users/PhuongLe/RiderProjects/ConsoleApp3/ConsoleApp3/obj/Debug/netcoreapp3.1/ConsoleApp3.dll
+/Users/PhuongLe/RiderProjects/ConsoleApp3/ConsoleApp3/obj/Debug/netcoreapp3.1/ConsoleApp3.pdb
+/Users/PhuongLe/RiderProjects/ConsoleApp3/ConsoleApp3/obj/Debug/netcoreapp3.1/ConsoleApp3.genruntimeconfig.cache
